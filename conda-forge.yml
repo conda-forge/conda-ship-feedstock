@@ -1,5 +1,6 @@
 conda_build_tool: rattler-build
 provider:
+  osx_arm64: github_actions
   win_arm64: github_actions
 github:
   branch_name: main
